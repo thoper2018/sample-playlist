@@ -1,0 +1,38 @@
+#EXTM3U url-tvg="https://github.com/apistech/project/raw/refs/heads/main/epgs/guide.xml.gz"
+# Edited with " M3U Editor & checker "
+# get it free on playstore: https://www.youtube.com/watch?v=A1wPV8JzgAU
+
+#EXTINF:-1 group-title="demo category 1: daerah" tvg-logo="https://pic.dens.tv/tv_183x174/Channel_Jowo_1.jpg" tvg-id="ChannelJowo.id@SD",Channel Jowo
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
+https://op-flashcon-digdayasd-1.dens.tv/h/h215/stream.m3u8?app_type=web&userid=lite&chname=Channel_Jowo
+
+#EXTINF:-1 group-title="demo category 1: daerah" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/garudatv.jpg" tvg-id="GarudaTV.id@SD",Garuda TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
+https://hgmtv.com:19360/garudatvlivestreaming/720p.m3u8
+
+#EXTINF:-1 group-title="demo category 1: daerah" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_indonesianatv.png",Indonesiana TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
+https://tvstreamcast.com/indonesiana.m3u8
+
+#EXTINF:-1 group-title="demo category 1: daerah" tvg-logo="https://pic.dens.tv/tv_183x174/Magna_Channel_1.jpg" tvg-id="MagnaChannel.id@SD",Magna Channel
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
+https://op-flashcon-digdayahd-1.dens.tv/h/h24/index.m3u8
+
+#EXTINF:-1 group-title="demo category 2: cctv traffic" tvg-logo="https://pantaucctv.com/api/thumbnail?id=jakcctv-503303-jkp-polda-jl-jend-gatot-subroto-c14-cctv-01",Jl. Gatot Subroto (Flyover Slipi) — Sudut 1 - Jakarta - Dki Jakarta
+https://dki-jkt.balitower.co.id:7028/503303_JKP_POLDA_JL.-JEND.-GATOT-SUBROTO-C14_CCTV-01/index.m3u8
+
+#EXTINF:-1 group-title="demo category 2: cctv traffic" tvg-logo="https://pantaucctv.com/api/thumbnail?id=jakcctv-503303-jkp-polda-jl-jend-gatot-subroto-c14-cctv-02",Jl. Gatot Subroto (Flyover Slipi) — Sudut 2 - Jakarta - Dki Jakarta
+https://dki-jkt.balitower.co.id:7028/503303_JKP_POLDA_JL.-JEND.-GATOT-SUBROTO-C14_CCTV-02/index.m3u8
+
+#EXTINF:-1 group-title="demo category 2: cctv traffic" tvg-logo="https://pantaucctv.com/api/thumbnail?id=jakcctv-501941-jkp-satpolpp-jl-mh-thamrin-c02-cctv-01",Jl. MH Thamrin (Depan Grand Indonesia) — Sudut 1 - Jakarta - Dki Jakarta
+https://dki-jkt.balitower.co.id:7028/501941_JKP_SATPOLPP_JL.-MH.-THAMRIN-C02_CCTV-01/index.m3u8
+
+#EXTINF:-1 group-title="demo category 2: cctv traffic" tvg-logo="https://pantaucctv.com/api/thumbnail?id=jakcctv-503301-jkp-polda-jl-tentara-pelajar-c04-cctv-02",Jl. Tentara Pelajar (Stasiun Palmerah) — Sudut 2 - Jakarta - Dki Jakarta
+https://dki-jkt.balitower.co.id:7028/503301_JKP_POLDA_JL.-TENTARA-PELAJAR-C04_CCTV-02/index.m3u8
+
+#EXTINF:-1 group-title="demo category 3:  video clip" tvg-logo="https://reference.dashif.org/dash.js/v4.4.0/samples/lib/img/bbb-3.jpg",BuckBunny sample clip
+https://dash.akamaized.net/akamai/bbb_30fps/bbb_30fps.mpd
+
+#EXTINF:-1 group-title="demo category 3:  video clip" tvg-logo="https://reference.dashif.org/dash.js/v4.4.0/samples/lib/img/sintel-2.jpg",Sintel sample clip
+https://dash.akamaized.net/digitalprimates/fraunhofer/480p_video/heaac_2_0_with_video/Sintel/sintel_480p_heaac2_0.mpd
+
